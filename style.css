@@ -1,0 +1,25 @@
+    <style>
+        .monospace {
+    font-family: "Lucida Console", Courier, monospace;
+        }
+    .sansserif {
+    font-family: Arial, Helvetica, sans-serif;
+        }
+        .impact {
+    font-family: Impact, fantasy, sans-serif;
+        }
+        .br { 
+        display: block; 
+        margin-bottom: 0em; 
+        } 
+            
+        .brmedium { 
+        display: block; 
+        margin-bottom: 1em; 
+        } 
+
+        .brlarge { 
+        display: block; 
+        margin-bottom: 2em; 
+        } 
+        </style>
