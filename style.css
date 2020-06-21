@@ -22,4 +22,15 @@
         display: block; 
         margin-bottom: 2em; 
         } 
-        </style>
+             .a {
+        font-size: 15px;
+        }
+
+        .b {
+        font-size: large;
+        }
+
+        .c {
+        font-size: 150%;
+        }
+    </style>
