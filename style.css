@@ -61,7 +61,10 @@ font-family: Impact, fantasy, sans-serif;
 .b {
     font-size: large;
     }
-
+table, th, td {
+            border: 1px solid black;
+            text-align: left;
+         }
 
 
 html{
