@@ -64,7 +64,8 @@ font-family: Impact, fantasy, sans-serif;
 table, th, td {
             border: 1px solid black;
             text-align: left;
-			border-collapse: collapse;
+            border-collapse: collapse;
+            background-color: #a8dadc
          }
 
 
